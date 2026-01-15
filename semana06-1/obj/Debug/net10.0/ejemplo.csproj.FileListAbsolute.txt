@@ -1,0 +1,15 @@
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\obj\Debug\net10.0\ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\obj\Debug\net10.0\ejemplo.AssemblyInfoInputs.cache
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\obj\Debug\net10.0\ejemplo.AssemblyInfo.cs
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\obj\Debug\net10.0\ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\obj\Debug\net10.0\ejemplo.sourcelink.json
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\bin\Debug\net10.0\ejemplo.exe
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\bin\Debug\net10.0\ejemplo.deps.json
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\bin\Debug\net10.0\ejemplo.runtimeconfig.json
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\bin\Debug\net10.0\ejemplo.dll
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\bin\Debug\net10.0\ejemplo.pdb
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\obj\Debug\net10.0\ejemplo.dll
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\obj\Debug\net10.0\refint\ejemplo.dll
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\obj\Debug\net10.0\ejemplo.pdb
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\obj\Debug\net10.0\ejemplo.genruntimeconfig.cache
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\ejemplo\obj\Debug\net10.0\ref\ejemplo.dll
