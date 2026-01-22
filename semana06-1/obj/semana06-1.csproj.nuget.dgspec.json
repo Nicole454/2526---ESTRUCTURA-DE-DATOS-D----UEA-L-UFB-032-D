@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana02\\semana02.csproj": {}
+    "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana06-1\\semana06-1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana02\\semana02.csproj": {
+    "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana06-1\\semana06-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana02\\semana02.csproj",
-        "projectName": "semana02",
-        "projectPath": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana02\\semana02.csproj",
+        "projectUniqueName": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana06-1\\semana06-1.csproj",
+        "projectName": "semana06-1",
+        "projectPath": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana06-1\\semana06-1.csproj",
         "packagesPath": "C:\\Users\\DJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana02\\obj\\",
+        "outputPath": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana06-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DJ\\AppData\\Roaming\\NuGet\\NuGet.Config"

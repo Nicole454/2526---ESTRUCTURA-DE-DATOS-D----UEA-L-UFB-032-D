@@ -17,7 +17,7 @@ class Program
             Console.WriteLine("2. Mostrar resultados");
             Console.WriteLine("3. Salir");
             Console.ResetColor();
-     m       Console.Write("\nSeleccione una opción: ");
+           Console.Write("\nSeleccione una opción: ");
             string opcion = Console.ReadLine();
 
             switch (opcion)

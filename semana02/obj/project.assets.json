@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana02\\semana02.csproj",
-      "projectName": "semana02",
-      "projectPath": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana02\\semana02.csproj",
+      "projectUniqueName": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana02\\semana_02.csproj",
+      "projectName": "semana_02",
+      "projectPath": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana02\\semana_02.csproj",
       "packagesPath": "C:\\Users\\DJ\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana02\\obj\\",
       "projectStyle": "PackageReference",
