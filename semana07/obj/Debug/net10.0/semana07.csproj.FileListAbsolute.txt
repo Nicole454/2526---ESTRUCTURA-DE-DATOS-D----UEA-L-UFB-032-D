@@ -1,0 +1,15 @@
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\obj\Debug\net10.0\semana07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\obj\Debug\net10.0\semana07.AssemblyInfoInputs.cache
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\obj\Debug\net10.0\semana07.AssemblyInfo.cs
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\obj\Debug\net10.0\semana07.csproj.CoreCompileInputs.cache
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\obj\Debug\net10.0\semana07.sourcelink.json
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\bin\Debug\net10.0\semana07.exe
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\bin\Debug\net10.0\semana07.deps.json
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\bin\Debug\net10.0\semana07.runtimeconfig.json
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\bin\Debug\net10.0\semana07.dll
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\bin\Debug\net10.0\semana07.pdb
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\obj\Debug\net10.0\semana07.dll
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\obj\Debug\net10.0\refint\semana07.dll
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\obj\Debug\net10.0\semana07.pdb
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\obj\Debug\net10.0\semana07.genruntimeconfig.cache
+C:\Users\DJ\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\semana07\obj\Debug\net10.0\ref\semana07.dll

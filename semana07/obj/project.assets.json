@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana04\\semana04.csproj",
-      "projectName": "semana04",
-      "projectPath": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana04\\semana04.csproj",
+      "projectUniqueName": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana07\\semana07.csproj",
+      "projectName": "semana07",
+      "projectPath": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana07\\semana07.csproj",
       "packagesPath": "C:\\Users\\DJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana04\\obj\\",
+      "outputPath": "C:\\Users\\DJ\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D\\semana07\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DJ\\AppData\\Roaming\\NuGet\\NuGet.Config"
